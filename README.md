@@ -12,4 +12,4 @@ Skills:  REACT / JS / HTML / CSS/C++
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizHamzaRauf)](https://github.com/HafizHamzaRauf/github-readme-stats)
