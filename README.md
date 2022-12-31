@@ -6,7 +6,7 @@ I'm a software Developer, and Researcher! I am coding in c++ for more than 1 yea
 
 Skills:  REACT / JS / HTML / CSS/C++/PYTHON 
 
-- 🌱 I’m currently learning PYTHON 
+- 🌱 I’m currently working on React 
 - 📫 How to reach me: hamazrauf@gmail.com 
 
 
