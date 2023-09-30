@@ -8,7 +8,7 @@ Skills:  REACT / JS / HTML / CSS / C++/ PYTHON / Nodejs / expressjs / Mongodb
 
 - 🌱 I’m currently working on MERN Stack 
 - 📫 How to reach me: hamazrauf@gmail.com 
-
+- 💥My linkedin Profile: https://www.linkedin.com/in/hamza-rauf-330925242/
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizHamzaRauf)](https://github.com/HafizHamzaRauf/github-readme-stats)
